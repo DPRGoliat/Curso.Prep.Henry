@@ -1,0 +1,20 @@
+for: Es un bucle que evalua expresiones una y otra vez, hasta que devuelve lo que estamos buscando o se detiene después de cierto tiempo.
+
+Ejemplo: Cuando nostros perdemos o no encontramos el celular en la casa, solemos buscarlo por toda la casa hasta encontrarlo, y si no lo encontramos a la primera, sabiendo que esta si esta en la casa, volvemos a repetir la busqueda en los lugares que vimos con anterioridad, lo hacemos hasta que encontramos en celular.
+
+
+&&: Operador "and". Lo que hace es evaluar las expresiones, para ver si son verdaderas, y si lo son devolvera "true", y en el caso de que una de ellas no sea verdadera entonces devolvera "falso".
+
+Ejemplo: si tengo una maquina dispensadora de dulces, y yo ingreso muchas monedas y ninguna de esta es falsificada, entonces se me va a permitir sacar un dulce de la maquina. Pero en el caso de que una de estas monedas es falsificada, no voy a poder conseguir el dulce.
+
+
+||: Operador "OR". Lo que hace es determinar si una de las expresiones es "true". Devolvera "true" si una de las expresiones es verdadera. Devolvera "false" si todas las expresiones son falsas.
+
+Ejemplo: Si yo quiero comprar un video juego, y veo que hay en oferta varios lotes de juegos; yo voy a comprar el lote donde haya varios videos o uno que me guste mucho, para decirdirme en ese lote, y no voy a comprar otro lote donde ninguno me gusto.
+
+
+
+!: Operador "NOT". Lo que hace es devolver el valor booleano opuesto de lo que introduzca.
+
+Ejemplo: me va a contradecir en todo lo que yo le diga
+

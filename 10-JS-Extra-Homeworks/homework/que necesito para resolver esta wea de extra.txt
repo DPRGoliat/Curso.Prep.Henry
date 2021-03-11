@@ -1,0 +1,15 @@
+1- clave-valor 
+
+2 - String, devolver string y tranformarla en clave-valor y cada wea de la string que represente un clave-valor
+
+3- Mover todas las mayuculas de una string al inicio de este.
+
+4- recibo una frase y tengo que dar vuelta las letras de cada palabra de esta frase,  "cantar conto cantito" = "ratnac otnoc otitnac" 
+
+5- es o no es capicua.
+
+6- eliminar letras y devolver la cadena.
+
+7- ordenar una matriz de string en orden creciente, de menos caracteres a mayores.
+
+8- encontrar elementos en comun de dos arrays y devolver dichos elementos encontrados.

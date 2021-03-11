@@ -1,0 +1,4 @@
+Arrays:
+
+Es una forma de almacenar muchos tipos de datos a una sola variable en forma de lista ordenada.1
+Esto quiere decir que funciona como un estante, donde yo puedo guardar ordenadamente objetos, y estos objetos

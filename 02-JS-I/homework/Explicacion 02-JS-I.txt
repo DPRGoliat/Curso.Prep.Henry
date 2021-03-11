@@ -1,0 +1,42 @@
+Conceptos
+
+1-Variables:Es una forma de almacenar informacion a una palabra clave, para que despues yo pueda ejecutar esa palabra que contiene la informacion que le introduje con anterioridad;esta informacion puede ser modificada, no es un valor fijo.
+Podrias imaginarlo como una caja, que guarda un un objeto y este objeto puede cambiar si uno de desea, e introducir otro objeto
+Las variables se pueden: Declarar, Inicializar y modificar.
+
+Existen 3 tipos de variables: 
+
+Var = Variable 
+Es una variable de uso global, que no esta limitada por funciones o bloques
+
+Let = 
+let te permite declarar variables limitando su alcance (scope) al bloque, declaración, o expresión donde se está usando.
+
+Const = Constante
+es una variable que no puede ser modificada como las anteriores
+
+El Scope o ambito es la zona donde existe nuestra variable o constante.
+Esto quiere decir que si una variable se ejecuta dentro de una funcion o bloque, esta variable no puede ser llamada o ejecutada fuera de esa funcion/bloque.
+
+
+
+2-Strings: es una cadena de caracteres o bloque de texto, donde cualquier texto entre comillas simple o dobles es un String, si no estuviera entre comilla se interpretaria como si fuera una variable
+
+
+
+3-Funciones(Argumentos,return):
+
+La funcion sirve para ejecutar un proceso que nosotros queramos hacer, como sumar varios numeros, para esto nosotros necesitamos declarar el nombre a la funcion y despues dale un argumento.
+
+En las funciones podemos declarar argumentos; Los argumentos son como objetos que nostros introducimos, por ejemplo, una suma, 1 + 2, Donde 1 es el primer argumento, y 2 el segundo.
+
+
+Tambien en Funciones tenemos "return" que nos sirve para terminar y nos devuelve lo que nosotros especifiquemos que queramos ver del resultado de esa funcion, es la unica forma de que nosotros podamos ver o sacar informacion de esa funcion, ya que, la funcion es como una maquina dispensadora de alimentos y return es nuestra moneda para poder sacar lo que nosotros queramos de ahi dentro. De otra forma no se podemos sacar esas papafritas de la maquina. Si intentamos otro metodo como console.log en algo que declaramos dentro de la función, devolverá indifinido porque no tenemos acceso a él fuera de la función. Esto se llama Scope (“alcance”). La única forma de acceder a algo dentro de la función es devolverlo.
+
+
+
+4-Declaraciones if:
+Control de flujo y operadores de comparación, es una forma de que podemos verificar si nuestra función es true, y si lo es que ejecute algo que nosotros queramos o si lo que queremos verificar es falso, entonces le decimos que ejecute otra cosa
+
+
+5-Valores booleanos(true, false): Son tipo de datos logicos, y solo admite 2 valores, True y false, esto sirve para cuando uno necesita hacer una comprovacion de cualquier informacion, y si esta existe, nos dara un True y si no lo hicera seria un false. Pero a diferencia de IF, nosotros no le decimos que hacer si sale true, no podriamos decir, bueno hace esto, el true es solo para verificar y solo nos responde con true y false.

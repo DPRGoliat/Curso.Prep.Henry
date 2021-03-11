@@ -1,0 +1,25 @@
+Objetos: Los objetos contienen mucha información sobre una sola cosa; son usados para almacenar colecciones de varios datos y entidades más complejas asociados con un nombre clave.
+
+Podemos imaginar un objeto como un gabinete con archivos firmados. Cada pieza de datos es almacenada en su archivo por la clave. Es fácil encontrar un archivo por su nombre o agregar / eliminar un archivo.
+
+
+
+
+Propiedades: Una propiedad es un par “key:value”, donde key es un string (también llamado “nombre clave”), y value puede ser cualquier cosa que nosotros queramos, pero tiene que tener sentido lo que pongas aca con el "nombre clave"  ya que, no tendria sentido de ser si no fuera asi.
+
+
+
+
+Métodos: En los objetos, los valores se pueden establecer en funciones. Las funciones guardadas en un objeto se denominan métodos. Podemos llamar a un método con argumentos como lo haríamos con una función normal
+
+
+
+
+Bucle for…in: Un bucle for...in solo itera sobre propiedades enumerables que no son símbolo. Los objetos creados a partir de constructores integrados como Array y Object han heredado propiedades no enumerables de Object.prototype y String.prototype, como el método indexOf() de String o el método toString() de Object. El bucle iterará sobre todas las propiedades enumerables del objeto en sí y aquellas que el objeto hereda de su cadena de prototipos (las propiedades de los prototipos más cercanos tienen prioridad sobre las de los prototipos más alejados del objeto en su cadena de prototipos).
+
+
+
+
+Notación de puntos vs notación de corchetes: Con la notación de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave. Así como llamamos a la propiedad .length en una matriz. La propiedad de longitud es un par de clave-valor.
+
+La notación de corchetes es como llamar a un elemento en una matriz, aunque con corchetes debemos usar una cadena o número, o una variable que apunte a una cadena o número. Se puede llamar a cada clave envolviéndola con comillas:
